@@ -14,10 +14,10 @@ bash
 ```
 # 一键安装
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui-alpine/main/install.sh)0.3.4.4
+bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui-alpine/main/install.sh) 0.3.4.4
 ```
 ```
-apk add curl && apk add bash && bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui-alpine/main/install.sh) 0.3.4.4
+apk add curl bash && bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui-alpine/main/install.sh) 0.3.4.4
 ```
 
 # 更新记录
